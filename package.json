@@ -1,0 +1,22 @@
+{
+  "name": "laboratorioopcional",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sin coronavirus",
+  "license": "ISC",
+  "description": "lab opcional",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonatan1967/LaboratorioOpcional.git"
+  },
+  "keywords": [
+    "lab"
+  ],
+  "bugs": {
+    "url": "https://github.com/jhonatan1967/LaboratorioOpcional/issues"
+  },
+  "homepage": "https://github.com/jhonatan1967/LaboratorioOpcional#readme"
+}
