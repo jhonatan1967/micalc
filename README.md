@@ -8,3 +8,5 @@ sonar  [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=jhonatan1967_micalc&metric=sqale_debt_ratio)](https://sonarcloud.io/dashboard?id=jhonatan1967_micalc)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=jhonatan1967_micalc&metric=code_smells)](https://sonarcloud.io/dashboard?id=jhonatan1967_micalc)
 [![Duplicated Lines Density](https://sonarcloud.io/api/project_badges/measure?project=jhonatan1967_micalc&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=jhonatan1967_micalc)
+
+test de covertura   [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=jhonatan1967_micalc&metric=coverage)](https://sonarcloud.io/dashboard?id=jhonatan1967_micalc)
