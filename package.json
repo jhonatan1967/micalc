@@ -1,22 +1,19 @@
 {
-  "name": "laboratorioopcional",
+  "name": "micalc",
   "version": "1.0.0",
+  "description": "mical",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "sin coronavirus",
-  "license": "ISC",
-  "description": "lab opcional",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jhonatan1967/LaboratorioOpcional.git"
+    "url": "git+https://github.com/jhonatan1967/micalc.git"
   },
-  "keywords": [
-    "lab"
-  ],
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jhonatan1967/LaboratorioOpcional/issues"
+    "url": "https://github.com/jhonatan1967/micalc/issues"
   },
-  "homepage": "https://github.com/jhonatan1967/LaboratorioOpcional#readme"
+  "homepage": "https://github.com/jhonatan1967/micalc#readme"
 }
