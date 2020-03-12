@@ -1,7 +1,7 @@
 'use strict';
 	
 
-	var calculator = require('./App/calculator');
+	var calculator = require('./app/calculator');
 	
 
 	var a = 3;
